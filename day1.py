@@ -1,13 +1,13 @@
 """
 https://docs.google.com/presentation/d/1AUCGB4bzeGyqqVWru6Ukm90oksyd8cUdy-47lpiZoBc/edit?usp=sharing
 """
-#Lecture example 1: 
+print("Lecture example 1:")
 ex_text = "Hi how are ya?"
 ex_int = 2
 ex_float = 2.0
 bool_ex = False
 
-#For example
+print("For example")
 for x in [ex_text, ex_int, ex_float, bool_ex]: 
     print(x)
 
