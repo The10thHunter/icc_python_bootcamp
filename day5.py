@@ -1,3 +1,7 @@
+"""
+Using the pokeapi.co/, can be found in the link below. 
+"""
+
 import requests as r 
 
 class Pokemon: 
